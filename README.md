@@ -26,3 +26,6 @@ Since this is a static website, no complex build steps or server configurations 
 The UI was carefully planned and designed before implementation. You can view the complete wireframes and mockups designed in Figma here:
 
 https://www.figma.com/design/bRgpK8Sl8zsvOEUf2wLelJ/portfolio_project?node-id=0-1&t=xUivKxi7dtfRlyck-1
+
+Live-url to the website :
+https://ahmad-batta.github.io/portfolio_project/
